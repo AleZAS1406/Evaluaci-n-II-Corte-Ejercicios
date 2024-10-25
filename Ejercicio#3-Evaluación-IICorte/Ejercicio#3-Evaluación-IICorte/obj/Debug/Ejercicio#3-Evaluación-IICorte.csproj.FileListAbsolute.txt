@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio#3-Evaluación-IICorte\Ejercicio#3-Evaluación-IICorte\bin\Debug\Ejercicio#3-Evaluación-IICorte.exe.config
+C:\Users\Usuario\source\repos\Ejercicio#3-Evaluación-IICorte\Ejercicio#3-Evaluación-IICorte\bin\Debug\Ejercicio#3-Evaluación-IICorte.exe
+C:\Users\Usuario\source\repos\Ejercicio#3-Evaluación-IICorte\Ejercicio#3-Evaluación-IICorte\bin\Debug\Ejercicio#3-Evaluación-IICorte.pdb
+C:\Users\Usuario\source\repos\Ejercicio#3-Evaluación-IICorte\Ejercicio#3-Evaluación-IICorte\obj\Debug\Ejercicio#3-Evaluación-IICorte.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio#3-Evaluación-IICorte\Ejercicio#3-Evaluación-IICorte\obj\Debug\Ejercicio#3-Evaluación-IICorte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio#3-Evaluación-IICorte\Ejercicio#3-Evaluación-IICorte\obj\Debug\Ejercicio#3-Evaluación-IICorte.exe
+C:\Users\Usuario\source\repos\Ejercicio#3-Evaluación-IICorte\Ejercicio#3-Evaluación-IICorte\obj\Debug\Ejercicio#3-Evaluación-IICorte.pdb
