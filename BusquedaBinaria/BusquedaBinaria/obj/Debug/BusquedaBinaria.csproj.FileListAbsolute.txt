@@ -1,7 +1,0 @@
-C:\Users\Usuario\source\repos\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
-C:\Users\Usuario\source\repos\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
-C:\Users\Usuario\source\repos\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
-C:\Users\Usuario\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.AssemblyReference.cache
-C:\Users\Usuario\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
-C:\Users\Usuario\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
